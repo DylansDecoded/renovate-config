@@ -1,2 +1,3 @@
 # renovate-config
-Defaults for Renovate Configurations
+
+Defaults for Renovate Configurations throughout repositories
